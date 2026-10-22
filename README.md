@@ -2,7 +2,7 @@
 <h1 align="center">Hey, I'm Garrett</h1>
 
 <!-- Short Info -->
-<h3 align="center">I'm a senior at East Carolina University studying computer science. I enjoy programming in Rust, and learning about topics related to data science.</h3> 
+<h3 align="center">I'm a senior at East Carolina University studying computer science. I enjoy software engineering, programming in Rust, and learning about topics related to data science.</h3> 
 
 <!-- LinkedIn Button -->
 <h3 id="badges" align="center">
